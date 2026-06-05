@@ -135,4 +135,6 @@ See [`docs/looker_setup.md`](docs/looker_setup.md) for full connection instructi
 
 ## 📄 License
 
+Réalisé par Fouad MOUTAIROU
+
 MIT
