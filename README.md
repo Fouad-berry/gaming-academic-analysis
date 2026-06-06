@@ -137,4 +137,6 @@ See [`docs/looker_setup.md`](docs/looker_setup.md) for full connection instructi
 
 Réalisé par Fouad MOUTAIROU
 
+Portfolio : https://portfolio-fouad.netlify.app/
+
 MIT
